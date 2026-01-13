@@ -1,3 +1,8 @@
+"""
+Patil's Caffe Ordering System
+This script manages customer orders and calculates total billing.
+"""
+
 # Define the menu of caffe items
 Caffe_Menu ={
     "Pizza" : 180,
